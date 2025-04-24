@@ -18,9 +18,9 @@ This repository provides a complete pipeline for real-time sign language detecti
 ```
 ├── data/                   # Extracted dataset images organized by label
 ├── scripts/                # Python scripts for data extraction, training, and detection
-│   ├── extract_landmarks.py    # Extract hand landmarks into data.pickle
-│   ├── train_model.py          # Train Random Forest and save model.p
-│   └── detect_realtime.py      # Run live detection on webcam
+│   ├── create_dataset.py    # Extract hand landmarks into data.pickle
+│   ├── train_classifier.py          # Train Random Forest and save model.p
+│   └── inference_classifier.py      # Run live detection on webcam
 ├── model.p                 # Trained Random Forest model pickle file
 ├── data.pickle             # Landmark features and labels
 ├── requirements.txt        # Python dependencies
