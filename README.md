@@ -30,7 +30,7 @@ This repository provides a complete pipeline for real-time sign language detecti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/sign-language-detection.git
+   git clone https://github.com/tahangz/sign-language-detection.git
    cd sign-language-detection
    ```
 2. Create and activate a virtual environment (optional but recommended):
@@ -76,6 +76,4 @@ All dependencies are listed in `requirements.txt`.
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for bug fixes and improvements.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
