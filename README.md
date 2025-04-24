@@ -30,8 +30,8 @@ This repository provides a complete pipeline for real-time sign language detecti
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/tahangz/ Real-Time-Sign-Language-Numeric-Gesture-Recognition.git
-   cd sign-language-detection
+   git clone https://github.com/tahangz/Real-Time-Sign-Language-Numeric-Gesture-Recognition.git
+   cd Real-Time-Sign-Language-Numeric-Gesture-Recognition
    ```
 2. Create and activate a virtual environment (optional but recommended):
    ```bash
