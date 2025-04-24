@@ -3,6 +3,11 @@
 ## Description
 This repository provides a complete pipeline for real-time sign language detection (alphabet) and numeric gesture recognition (numbers 0–9) using a webcam feed. It leverages the Sign Language MNIST dataset for alphabet gestures and a separate Kaggle dataset for numeric gestures, extracting hand landmarks via MediaPipe and training a Random Forest classifier on these features.
 
+<p align="center">
+  <img src="img.png" alt="Sample Gesture" width="400"/>
+</p>
+
+
 ## Features
 - **Real-time Webcam Detection**: Captures live video feed and predicts hand gestures on-the-fly.
 - **Alphabet Recognition**: Supports detection of alphabet signs (A–Z) from the Sign Language MNIST dataset.
